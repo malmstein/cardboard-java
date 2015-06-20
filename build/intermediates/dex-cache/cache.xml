@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.6-nano-1d545a3e743936dfdacb3a2dd58653cfc1b4fa59.jar" />
+    </item>
+    <item
+        jar="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2403806886bbe517707b43afb5e5c9ce9883c4d2">
+        <dex dex="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-89e935423103af627086bf9fb6c6f79c381348ff.jar" />
+    </item>
+    <item
+        jar="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.6-nano-1d545a3e743936dfdacb3a2dd58653cfc1b4fa59.jar" />
+    </item>
+    <item
+        jar="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2403806886bbe517707b43afb5e5c9ce9883c4d2">
+        <dex dex="/Users/malmstein/_dev/android/malmstein/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-89e935423103af627086bf9fb6c6f79c381348ff.jar" />
+    </item>
+
+</items>
